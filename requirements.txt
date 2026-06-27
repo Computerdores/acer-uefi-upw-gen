@@ -1,0 +1,4 @@
+pefile
+unicorn
+crcmod
+pycryptodome
